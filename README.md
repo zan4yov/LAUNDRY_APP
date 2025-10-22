@@ -35,7 +35,7 @@ Proyek ini juga dilengkapi dengan integrasi **Midtrans** untuk pembayaran online
 1. **Clone repositori**
    ```bash
    git clone https://github.com/zan4yov/Laundry_APP.git
-   cd farzana-laundry
+   cd Laundry_APP
    ```
 
 2. **Instal dependensi**
