@@ -1,11 +1,11 @@
-# 🧺 Laravel Laundry Web APP
+# Laravel Laundry Web APP
 
 Sistem manajemen laundry modern berbasis **Laravel 11**, dirancang untuk membantu pengelolaan transaksi, pelanggan, dan layanan laundry secara efisien.  
 Proyek ini juga dilengkapi dengan integrasi **Midtrans** untuk pembayaran online, autentikasi menggunakan **Laravel Sanctum**, dan struktur standar Laravel untuk kemudahan pengembangan.
 
 ---
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 
 - **Manajemen Pelanggan & Transaksi** — Tambah, ubah, dan pantau pesanan pelanggan.  
 - **Integrasi Pembayaran Midtrans** — Mendukung pembayaran otomatis via Midtrans API.  
@@ -16,7 +16,7 @@ Proyek ini juga dilengkapi dengan integrasi **Midtrans** untuk pembayaran online
 
 ---
 
-## 🧰 Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 | Komponen | Versi / Library |
 |-----------|----------------|
@@ -30,7 +30,7 @@ Proyek ini juga dilengkapi dengan integrasi **Midtrans** untuk pembayaran online
 
 ---
 
-## 📦 Instalasi
+##  Instalasi
 
 1. **Clone repositori**
    ```bash
@@ -77,7 +77,7 @@ Proyek ini juga dilengkapi dengan integrasi **Midtrans** untuk pembayaran online
 
 ---
 
-## 💳 Integrasi Midtrans
+##  Integrasi Midtrans
 
 Untuk mengaktifkan pembayaran online:
 1. Daftar di [Midtrans Dashboard](https://dashboard.midtrans.com/).  
@@ -91,7 +91,7 @@ Untuk mengaktifkan pembayaran online:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Jalankan pengujian menggunakan PHPUnit:
 ```bash
@@ -100,7 +100,7 @@ php artisan test
 
 ---
 
-## 🐳 Laravel Sail (opsional)
+##  Laravel Sail (opsional)
 
 Untuk menjalankan dengan Docker:
 ```bash
@@ -110,6 +110,6 @@ Kemudian akses melalui [http://localhost](http://localhost)
 
 ---
 
-## 📄 Lisensi
+##  Lisensi
 
 Proyek ini menggunakan lisensi **MIT** — silakan gunakan, ubah, dan distribusikan dengan bebas sesuai kebutuhan.
