@@ -1,4 +1,4 @@
-# 🧺 Laravel Laundry Web APP
+#  Laravel Laundry Web APP
 
 Sistem manajemen laundry modern berbasis **Laravel 11**, dirancang untuk membantu pengelolaan transaksi, pelanggan, dan layanan laundry secara efisien.  
 Proyek ini juga dilengkapi dengan integrasi **Midtrans** untuk pembayaran online, autentikasi menggunakan **Laravel Sanctum**, dan struktur standar Laravel untuk kemudahan pengembangan.
